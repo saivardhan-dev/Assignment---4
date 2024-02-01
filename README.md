@@ -3,7 +3,7 @@ Assignment - 4
 
 ## Question - 1
 
-# 1.The script starts by importing the necessary libraries, including Pandas and Matplotlib.
+## 1.The script starts by importing the necessary libraries, including Pandas and Matplotlib.
 # 2.The fitness dataset is loaded from 'data.csv' into a Pandas DataFrame named df.
 # 3.df.describe(): Provides statistical summary of the dataset.
 # 4.df.isnull().sum(): Displays the count of missing values in each column.
