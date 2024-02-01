@@ -22,3 +22,6 @@ Assignment - 4
 ## 4.LinearRegression(): Initializes a linear regression model.model.fit(): Fits the model to the training data.Predictions are made on both training and testing sets.
 ## 5.Mean Squared Error (MSE) is calculated for both training and testing sets.
 ## 6.Scatter plot of the training and testing data with the regression line.
+
+# Video Link
+## https://drive.google.com/file/d/1rQdsCqXeVF64DzesVKwY3MrO7tzXQIhO/view?usp=share_link
